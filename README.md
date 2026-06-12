@@ -1,8 +1,11 @@
-## Hi there 👋, I'm Sina
+<img src="./github-header-banner.png"/>
 
-> I like learning new skills and developing scalable applications.
+> I build scalable and maintainable web applications with a focus on performance, developer experience, and clean architecture. I'm currently deepening my expertise in backend systems, infrastructure, and DevOps to become a well-rounded full-stack engineer.
 
----
+## Current Focus
+- Building an open-source privacy-first messaging platform ([Repository](https://github.com/Cockatiel-labs/Cockatiel-Messenger))
+- Learning distributed systems, infrastructure, and modern DevOps practices
+- Exploring Bun, Elysia, and high-performance backend architectures
 
 ## Tech Stack
 
