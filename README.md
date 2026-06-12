@@ -3,7 +3,7 @@
 > I build scalable and maintainable web applications with a focus on performance, developer experience, and clean architecture. I'm currently deepening my expertise in backend systems, infrastructure, and DevOps to become a well-rounded full-stack engineer.
 
 ## Current Focus
-- Building an open-source privacy-first messaging platform ([Repository](https://github.com/Cockatiel-labs/Cockatiel-Messenger))
+- Building [Cockatiel Messenger](https://github.com/Cockatiel-labs/Cockatiel-Messenger) — a privacy-first open-source messaging platform focused on performance, security, and self-hosting
 - Learning distributed systems, infrastructure, and modern DevOps practices
 - Exploring Bun, Elysia, and high-performance backend architectures
 
@@ -23,10 +23,5 @@
 ![Express](https://img.shields.io/static/v1?logo=Express&label=&message=Express&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Bun](https://img.shields.io/badge/Bun-2D333B?style=flat-square&logo=bun&logoColor=EEE)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker-compose&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Nginx](https://img.shields.io/static/v1?logo=Nginx&label=&message=Nginx&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![Bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=Bash&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![npm](https://img.shields.io/static/v1?logo=npm&label=&message=npm&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
